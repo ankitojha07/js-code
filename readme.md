@@ -1,1 +1,7 @@
-# Backend Web Dveelopment - Node JS, Express JS & Core Javascript 
+# Backend Web Dveelopment - , Express JS & Core Javascript 
+
+- Node JS
+- Express SJ
+- JavaScript
+- Git & GitHub
+- AWS (Basics)
